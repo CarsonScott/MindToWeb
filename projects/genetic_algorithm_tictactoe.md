@@ -22,4 +22,4 @@ These functions (neural networks) are determined genetically and evolve as they 
 
 The process of developing a new population from the existing one involves the use of crossover and mutation. Crossover occurs when the genomes of two high-performing candidates are mixed and combined to form a new, hybrid genome, while mutation refers to the random process of change that happens when genes are carried over into the next generation.
 
-In this case a genome refers to the list of weights/biases of two neural networks (urgency and decision functions). When these genes are carried over there is a small chance that a weight or bias will randomly change in value, which may or may not be advantagous to the recepient (offspring).
+In this case a genome refers to the list of weights/biases of two neural networks (urgency and decision functions). When these genes are carried over there is a small chance that a weight or bias will randomly change in value, which may or may not be advantagous to the recepient (offspring). OVer time these subtle changes cause trial-and-error that pushes the fitness of the population as a whole higher and higher.
