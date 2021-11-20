@@ -1,6 +1,6 @@
 # Learning to Play Tic-tac-toe w/ Genetic Algorithms
 
-_Note: this is a project I'm currently working on, mostly to get more comfortable with genetic algorithms but also because it sounded like an interesting (and relatively uncomplicated) problem to sink my teeth into. I hope you feel the same! Also- I'm writing this primarily to conceptualize the ideas for the project, and so currently there's no source code available. That being said if anyone out there's feeling proactive/wants to work without profit insentive, feel free to take a crack at it!_
+_Note: this is a project I'm currently working on, mostly to get more comfortable with genetic algorithms but also because it sounded like an interesting (and relatively uncomplicated) problem to sink my teeth into. I hope you feel the same!_
 
 ## __The Game__
 
