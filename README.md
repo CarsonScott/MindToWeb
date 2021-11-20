@@ -10,4 +10,4 @@ Projects will most likely be structured as a list and organized by category, whe
 
 ## __Genetic Algorithms__
 
-- __[Learning to Player Tic-Tac-Toe w/ Genetic Algorithms](https://github.com/CarsonScott/MindToWeb/blob/main/projects/genetic_algorithm_tictactoe.md)__
+- __[Learning to Play Tic-Tac-Toe w/ Genetic Algorithms](https://github.com/CarsonScott/MindToWeb/blob/main/projects/genetic_algorithm_tictactoe.md)__
