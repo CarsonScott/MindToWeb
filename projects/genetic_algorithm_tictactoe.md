@@ -2,6 +2,8 @@
 
 _Note: this is a project I'm currently working on, mostly to get more comfortable with genetic algorithms but also because it sounded like an interesting (and relatively uncomplicated) problem to sink my teeth into. I hope you feel the same!_
 
+#### [Source code](https://github.com/CarsonScott/MindToWeb/blob/main/sources/tic_tac_toe.py)
+
 ## __The Game__
 
 A game consists of two bots competing with one another to be the first to get 3-in-a-row. Each bot takes a turn placing either an 'x' or an 'o' token into a blank spot on a 3x3 game board until one of them gets 3-in-a-row (horizontal, vertical, or diagonal) and is the winner, or until all the spots are filled on the board in which case the game is a tie.
